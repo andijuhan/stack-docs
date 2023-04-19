@@ -9,3 +9,5 @@ Repositori ini berisi dokumentasi penting untuk membuat sebuah website atau apli
 ### [Strapi](https://github.com/andijuhan/stack-docs/blob/main/strapi.md)
 
 ### Nextjs
+
+### Zustand
