@@ -6,6 +6,6 @@ Repositori ini berisi dokumentasi penting untuk membuat sebuah website atau apli
 
 ### [Prisma](https://github.com/andijuhan/stack-docs/blob/main/prisma.md)
 
-### Strapi
+### [Strapi](https://github.com/andijuhan/stack-docs/blob/main/strapi.md)
 
 ### Nextjs
